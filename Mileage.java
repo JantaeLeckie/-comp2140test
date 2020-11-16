@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+/**@author Jantae Leckie */
+
 public class Mileage{
     /**Testing 1,2,3 */
     public static void main(String[] args) {
